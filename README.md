@@ -5,9 +5,9 @@
 
 ---
 
-_Caracteristicas:_
-* Permite exportar e indexar los graficos, cabezas/cascos, cuerpos/personajes, fx/efectos.
-* Permite explorar los indices graficos.
+_Características:_
+* Permite exportar e indexar los gráficos, cabezas/cascos, cuerpos/personajes, fx/efectos.
+* Permite explorar los índices gráficos.
 * Permite no incluir cabeceras.
 * Soporta formato integer(<32k) y long (>32k).
-* Soporte de PNG/BMP
+* Soporte de PNG/BMP.
